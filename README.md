@@ -473,7 +473,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Saikiran Rajesh Asamwar**  
-Full Stack MERN Developer | Certified AWS Cloud Engineer | Aspiring DevOps Engineer
+Certified AWS DevOps Engineer
 
 - 🌐 GitHub: [@SaikiranAsamwar](https://github.com/SaikiranAsamwar)
 - 💼 LinkedIn: [Saikiran Asamwar](https://www.linkedin.com/in/saikiran-asamwar/)
